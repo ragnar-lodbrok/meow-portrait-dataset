@@ -1,10 +1,17 @@
 # meow-portrait-dataset
-Portrait dataset for segmentation of humans
+
+Portrait dataset for segmentation.
 
 Made from random youtube videos, mostly bloggers.
 
-Mostly focused on portrait and hands.
+Mostly focused on portraits and hands. Segmentation was made in GIMP.
 
 Work is in progress.
+
+## License
+
+CC BY-NC-SA (only for non-commercial purposes). 
+
+## Sample
 
 ![Sample](samples.png?raw=true "Sample")
