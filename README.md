@@ -6,7 +6,7 @@ Made from random youtube videos, mostly bloggers.
 
 Mostly focused on portraits and hands. Segmentation was made in GIMP.
 
-Work is in progress.
+Work is in progress. *Number of samples: 64.*
 
 ## License
 
